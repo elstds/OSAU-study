@@ -1,0 +1,11 @@
+C:\Users\elst_\Documents\Домашняя работа\Технологии программирования\LR6\bin\Debug\LR6.exe.config
+C:\Users\elst_\Documents\Домашняя работа\Технологии программирования\LR6\bin\Debug\LR6.exe
+C:\Users\elst_\Documents\Домашняя работа\Технологии программирования\LR6\bin\Debug\LR6.pdb
+C:\Users\elst_\Documents\Домашняя работа\Технологии программирования\LR6\obj\Debug\LR6.csproj.AssemblyReference.cache
+C:\Users\elst_\Documents\Домашняя работа\Технологии программирования\LR6\obj\Debug\LR6.csproj.SuggestedBindingRedirects.cache
+C:\Users\elst_\Documents\Домашняя работа\Технологии программирования\LR6\obj\Debug\LR6.Form1.resources
+C:\Users\elst_\Documents\Домашняя работа\Технологии программирования\LR6\obj\Debug\LR6.Properties.Resources.resources
+C:\Users\elst_\Documents\Домашняя работа\Технологии программирования\LR6\obj\Debug\LR6.csproj.GenerateResource.cache
+C:\Users\elst_\Documents\Домашняя работа\Технологии программирования\LR6\obj\Debug\LR6.csproj.CoreCompileInputs.cache
+C:\Users\elst_\Documents\Домашняя работа\Технологии программирования\LR6\obj\Debug\LR6.exe
+C:\Users\elst_\Documents\Домашняя работа\Технологии программирования\LR6\obj\Debug\LR6.pdb

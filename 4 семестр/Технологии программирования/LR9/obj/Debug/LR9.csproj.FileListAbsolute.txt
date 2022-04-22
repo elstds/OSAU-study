@@ -1,0 +1,11 @@
+C:\Users\elst_\Documents\Домашняя работа\Технологии программирования\LR9\bin\Debug\LR9.exe.config
+C:\Users\elst_\Documents\Домашняя работа\Технологии программирования\LR9\bin\Debug\LR9.exe
+C:\Users\elst_\Documents\Домашняя работа\Технологии программирования\LR9\bin\Debug\LR9.pdb
+C:\Users\elst_\Documents\Домашняя работа\Технологии программирования\LR9\obj\Debug\LR9.csproj.AssemblyReference.cache
+C:\Users\elst_\Documents\Домашняя работа\Технологии программирования\LR9\obj\Debug\LR9.csproj.SuggestedBindingRedirects.cache
+C:\Users\elst_\Documents\Домашняя работа\Технологии программирования\LR9\obj\Debug\LR9.Form1.resources
+C:\Users\elst_\Documents\Домашняя работа\Технологии программирования\LR9\obj\Debug\LR9.Properties.Resources.resources
+C:\Users\elst_\Documents\Домашняя работа\Технологии программирования\LR9\obj\Debug\LR9.csproj.GenerateResource.cache
+C:\Users\elst_\Documents\Домашняя работа\Технологии программирования\LR9\obj\Debug\LR9.csproj.CoreCompileInputs.cache
+C:\Users\elst_\Documents\Домашняя работа\Технологии программирования\LR9\obj\Debug\LR9.exe
+C:\Users\elst_\Documents\Домашняя работа\Технологии программирования\LR9\obj\Debug\LR9.pdb
